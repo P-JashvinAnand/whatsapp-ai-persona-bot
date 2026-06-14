@@ -127,7 +127,7 @@ npm start
 ```
 1. Open LM Studio → Local Server tab → Start Server
 2. Open terminal in project folder → npm start
-3. Scan QR if asked
+3. Scan QR if asked(only the first time)
 4. Done!
 ```
 
